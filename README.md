@@ -1,3 +1,3 @@
-# DSCI1_Group_2
+# DSCI1_Group_1
 Group project 
 Hi Its Dylan. 
